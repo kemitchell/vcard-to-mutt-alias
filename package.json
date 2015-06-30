@@ -1,7 +1,7 @@
 {
   "name": "vcard-to-mutt-alias",
   "description": "convert VCard to Mutt alias",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "bin": "vcard-to-mutt-alias.js",
   "dependencies": {
